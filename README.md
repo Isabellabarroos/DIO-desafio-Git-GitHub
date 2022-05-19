@@ -1,5 +1,5 @@
-# Repositório do desafio de Projeto sobre Git/GitHub da DIO
-1º Repositório 
+# Desafio de Projeto sobre Git/GitHub da DIO
+1º Repositório criado para o desafio de projeto.
 
 ## Links úteis:
-Markdown (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+[Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
